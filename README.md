@@ -1,6 +1,8 @@
+##FunctionRootCalculator
 Function which calculates the squareroot of a number
 if the number is negative it can't be calculated
-##Team Members
+
+  ##Team Members
 - Caizatoa Daniel
 - Caizapasto Dilan
 ScreenShot 1
